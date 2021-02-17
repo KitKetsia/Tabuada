@@ -1,0 +1,13 @@
+//Tabuada do 9
+
+// Declaração de Variavéis
+int i;
+int resultado;
+
+// Processamento e Saída
+void main() {
+  for ( i = 0; i < 10; i++) {
+    resultado = (9 * i);
+    print("9 X $i = $resultado");
+  }
+}
